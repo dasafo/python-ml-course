@@ -95,6 +95,16 @@ ENV/
 # mkdocs documentation
 /site
 
+
 # mypy
 .mypy_cache/
 .DS_Store
+
+# datasets
+/datasets/distributed-data/
+/datasets/sports/
+/datasets/belgian/
+/datasets/ml-100k/
+/datasets/online-news-popularity/
+/datasets/coronavirus-2019/
+/datasets/coronavirus-all-2019/
